@@ -1,0 +1,26 @@
+{
+  "name": "password-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ellamm/password-generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ellamm/password-generator/issues"
+  },
+  "homepage": "https://github.com/ellamm/password-generator#readme",
+  "dependencies": {
+    "node": "^22.13.0",
+    "vite": "^6.1.0"
+  }
+}
