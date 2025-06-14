@@ -2,7 +2,7 @@
 
 A secure, client-side password generator built with modern web technologies. Generate strong, customizable passwords instantly without any data leaving your browser.
 
-The website was build during Scrimba Frontend Development Career Path.
+The website was build during *Scrimba Frontend Development Career Path*.
 
 🌐 **Live App**: [View Live Site](https://password-generate-mm.netlify.app/)
 
